@@ -1,0 +1,25 @@
+a{
+    font-size:  40px;
+    margin-right: 80px;   
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    background-color: white;
+    height: 100px;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    
+}
+
+
+body {
+    margin: 0;
+    background: rgb(26, 91, 129);
+}
+
+
+
